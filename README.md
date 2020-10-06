@@ -9,7 +9,14 @@ Radar: single channel mm-wave FMCW radar
 
 GUI: written with pyQt
 
-Algorithms: written in python
+Algorithms: written in python, 
+
+## Highlights
+
+1) real time
+
+2) It can show the relative accurate heart variability, instead of just showing the frequency.
+
 
 ## Descirption of the video:
 
