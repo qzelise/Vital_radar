@@ -13,7 +13,7 @@ Algorithms: written in python,
 
 ## Highlights
 
-It can show relatively accurate real-time heart variability, not just frequency.
+It can show relatively accurate real-time heart rate variability, not just frequency.
 
 
 ## Descirption of the video:
