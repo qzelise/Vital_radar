@@ -17,7 +17,7 @@ Algorithms: written in python
 
 ## Descirption of the video:
 
-1) After clicking on the connection, the radar starts working. The plot will starts after it collects a data length of 15s. 
+1) After clicking on the connection, the radar starts working. The plot will starts after it collects a data length of **15s**. 
 
 2) At the beginning, the radar faces an **empty chair**, so there is no signal to show, when the person sits down, the data starts to show changes.
 
@@ -32,6 +32,8 @@ Algorithms: written in python
 - Fre_cal = Calculation based on FFT result of the entire data length(15s), not the true variation, but the average result of this data segment.
 
 
-Pls click on the youtube video to see how it works.
+Pls click on the 1-min video to see how it works. Thank you for the patience.
+
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/AHYHygv3Vs8/mqdefault.webp?sqp=CPyL8fsF&rs=AOn4CLCGie0GfQXQQ2QiMIauX15EkvrukQ)](https://youtu.be/AHYHygv3Vs8)
+
