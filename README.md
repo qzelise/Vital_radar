@@ -1,10 +1,6 @@
 # Vital_radar
 
-This is part of the work done for my master thesis: Vital sign detection with radar.
-
-The GUI was developed for real time demonstration of the algorithms used in my thesis. It is also used to display signals from reference sensors(ECG and breath sensor) . 
-
-I'm still working on refining the GUI and algorithms. The reference section hasn't been added because I haven't decided which format to display them.
+This is part of the work done for my master thesis: Vital sign detection with radar. The GUI was developed for real time demonstration of the algorithms used in my thesis. 
 
 # Videos of real time GUI
 ## Tools
