@@ -33,7 +33,7 @@ It can show relatively accurate real-time heart rate variability, not just frequ
 - Fre_cal = Calculation based on FFT result of the entire data length(15s), not the true variation, but the average result of this data segment.
 
 
-Pls click on the 1-min video to see how it works. Thank you for the patience.
+Pls click on the 1-minute video to see how it works. Thank you for the patience.
 
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/AHYHygv3Vs8/mqdefault.webp?sqp=CPyL8fsF&rs=AOn4CLCGie0GfQXQQ2QiMIauX15EkvrukQ)](https://youtu.be/AHYHygv3Vs8)
