@@ -26,15 +26,17 @@ It can show relatively accurate real-time heart and breath rate variability, not
 
 4) To show the result vividly, the heart and wind pictures change their color accordingly. 
 
-5) The values displayed on LCDs = frequency * 60 times/min. Two values are displayed: 
+5) Two values displayed on LCDs are displayed: 
 
-- Var_cal = Variability = Calculation based on the distance between adjacent peaks, showing the true variation.
+- H(B)RV (ms)= Variability = Calculation based on the distance between adjacent peaks * 1 / sampling_frequency, showing the true variation.
 
-- Fre_cal = Calculation based on FFT result of the entire data length(15s), not the true variation, but the average result of this data segment.
+- H(B)R (times/min) = Rate = Calculation based on FFT result of the entire data length(15s) * 60 times/min, not the true variation, but the average result of this data segment.
 
 
 Pls click on the 1-minute video to see how it works. 
 
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/AHYHygv3Vs8/mqdefault.webp?sqp=CPyL8fsF&rs=AOn4CLCGie0GfQXQQ2QiMIauX15EkvrukQ)](https://youtu.be/AHYHygv3Vs8)
+[![Watch the video](https://i9.ytimg.com/vi/uuy76YldBj4/mqdefault.jpg?time=1602411600000&sqp=CNC4i_wF&rs=AOn4CLCHS80l8fK9RjlwZ0YxiILeCTnOsw)](https://youtu.be/uuy76YldBj4)
+
+
 
