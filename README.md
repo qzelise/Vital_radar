@@ -18,7 +18,7 @@ It can show relatively accurate real-time heart and breath rate variability, not
 
 ## Descirption of the video:
 
-1) After clicking on the connection, the radar starts working. The plot will starts after it collects a data length of **15s**. 
+1) After clicking on the connection, the radar starts working. The plot will starts after it collects a data length of **10s**. 
 
 2) At the beginning, the radar faces an **empty chair**, so there is no signal to show, when the person sits down, the data starts to show changes.
 
@@ -28,15 +28,14 @@ It can show relatively accurate real-time heart and breath rate variability, not
 
 5) Two values displayed on LCDs are displayed: 
 
-- H(B)RV (ms)= Variability = Calculation based on the distance between adjacent peaks * 1 / sampling_frequency, showing the true variation.
+- SDSD = Variability = standard derivation of the differnece of the distance between adjacent peaks, showing the true variation.
 
-- H(B)R (times/min) = Rate = Calculation based on FFT result of the entire data length(15s) * 60 times/min, not the true variation, but the average result of this data segment.
-
+- HR(BR) =Heart(breath) Rate= Calculation based on FFT result of the entire data length(10s), not the true variation, but the average result of this data segment(more accurate).
 
 Pls click on the 1-minute video to see how it works. 
 
 
-[![Watch the video](https://i9.ytimg.com/vi/uuy76YldBj4/mqdefault.jpg?time=1602500100000&sqp=CITskPwF&rs=AOn4CLBfS7LGcSgY4C9YpDOCmU12mL0aXQ)](https://youtu.be/uuy76YldBj4)
+[![Watch the video](https://youtu.be/eP6wCq-hCbI)
 
 
 
