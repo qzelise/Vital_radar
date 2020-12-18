@@ -35,7 +35,7 @@ It can show relatively accurate real-time heart and breath rate variability, not
 Pls click on the 1-minute video to see how it works. 
 
 
-[![Watch the video](https://youtu.be/eP6wCq-hCbI)
+[![Watch the video](https://i9.ytimg.com/vi/eP6wCq-hCbI/mqdefault.jpg?time=1608285000000&sqp=CMj28f4F&rs=AOn4CLB2E7af01YGFt7W-8dloDVhukOjuw)](https://youtu.be/eP6wCq-hCbI)
 
 
 
